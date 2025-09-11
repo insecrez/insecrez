@@ -15,9 +15,8 @@
 </p>
 - Topics on secure development, infosec management and ethical hacking brings out the best in me<br>
 - I create digital content, consumed by pretty good number of people on social media <br>
-- I contribute over Github in free time<br>
 - I've been helping new students for fun<br>
-- I read books and blogs<br>
+- I read books and write blogs regularly<br>
 - I love treks, long walks and relative long journey rides
  <h2 align="left" id="macropower-tech">Tech</h2>
 - These are some of the tech that I've worked on till date, and still upskilling myself
