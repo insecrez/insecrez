@@ -13,7 +13,7 @@
 <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
 </a>
 </p>
-- I write blogs & writeups over topics on secure development, Infosec Management and Ethical H4CK1NG<br>
+- Topics on secure development, infosec management and ethical hacking brings out the best in me<br>
 - I create digital content, consumed by pretty good number of people on social media <br>
 - I contribute over Github in free time<br>
 - I've been helping new students for fun<br>
