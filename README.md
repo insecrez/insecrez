@@ -1,5 +1,5 @@
 <h1 align="left" id="macropower-title">:wave: Hi , नमस्ते, سلام..! </h1>
-<h1 align="left" id="macropower-title">I'm Fardeen Ahmed</h1>
+<h1 align="left" id="macropower-title">I'm Fardeen A.</h1>
 <h3 align="left">Secure Software Engineer, and a Bug-Bounty Hunter</h3>
  <p align="left">
 <a href="https://github.com/fardeen-ahmed">
