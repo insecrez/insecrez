@@ -16,6 +16,7 @@
 - I write blogs & writeups over topics on secure development, Infosec Management and Ethical H4CK1NG<br>
 - I create digital content, consumed by pretty good number of people on social media <br>
 - I contribute over Github in free time<br>
+- I've been helping new students for fun<br>
 - I read books and blogs<br>
 - I love treks, long walks and relative long journey rides
  <h2 align="left" id="macropower-tech">Tech</h2>
