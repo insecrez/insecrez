@@ -13,7 +13,7 @@
 <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
 </a>
 </p>
-- Topics on secure development, infosec management and ethical hacking brings out the best in me<br>
+- topics on system architectuer, networking and security.<br>
 - I create digital content, consumed by pretty good number of people on social media <br>
 - I've been helping new students for fun<br>
 - I read books and write blogs regularly<br>
