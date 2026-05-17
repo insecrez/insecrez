@@ -23,6 +23,6 @@
 <p align="left">
   <a href="#">
     <br>
-    <img src="https://skillicons.dev/icons?i=python,java,jenkins,ansible,aws,docker,kubernetes,azure,vim,idea,debian,powershell,mysql,splunk" />
+    <img src="https://skillicons.dev/icons?i=python,django,java,jenkins,ansible,aws,docker,kubernetes,azure,vim,idea,debian,powershell,mysql," />
   </a>
 </p>
