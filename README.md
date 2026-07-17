@@ -6,7 +6,7 @@
 
                                   .        .                            │ <b>insecrez</b>
                          . . ..    .   .  ....  .                       │ <i>FDE + Security Engineer</i>
-                ' ''   '''   '''   '   '''''''   ''                     | <i>think like an attacker, build like a defender
+                ' ''   '''   '''   '   '''''''   ''                     | <i>Think like an attacker, build like a defender</i>i
                . ..  .. .....   '   '  ' .......                        │ ───────────────────────────────────────────────
                .  .......        .          ....                        │
              .. .. .....     .               .. ..                      │ OS................. Linux
@@ -15,7 +15,7 @@
         . . ..  ..                               ...                    │ Terminal........... Kitty
         .. .......              .;+++::.          ...                   │
         .. .  .....       ..;;++xxX$$xxX;;        ...                   │ Languages.......... Python • Go • Rust
-     ... ...... ...      .;;+XXXXX$$$$XXx;:      .....                  │                   C • JavaScript • Bash
+     ... ...... ...      .;;+XXXXX$$$$XXx;:      .....                  │                   C • Java • Bash
        ...  .......      :;;+X$$$$$$X$X+xxX;     .....                  │
         ..... ......    :;::..;;Xx..             .....                  │ Security........... Web Application Security
        .. .. ....  .                       .: x: .......                │                     Mobile Security
