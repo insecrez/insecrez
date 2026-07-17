@@ -6,7 +6,8 @@
 
                                   .        .                            │ <b>insecrez</b>
                          . . ..    .   .  ....  .                       │ <i>FDE + Security Engineer</i>
-               . ..  .. .....         .......                           │ ───────────────────────────────────────────────
+                ' ''   '''   '''   '   '''''''   ''                     | <i>think like an attacker, build like a defender
+               . ..  .. .....   '   '  ' .......                        │ ───────────────────────────────────────────────
                .  .......        .          ....                        │
              .. .. .....     .               .. ..                      │ OS................. Linux
            .. .... ...                         ....                     │ Editor............. VS Code • Neovim
@@ -33,21 +34,17 @@
        ... ....  .:..  .   :& ..:::;;++++; ::                           │
          ...  .   ::...      : .+xxXXXXX &:                             │ GitHub
         .    . .   :::.          XX$$X:                                 │ ───────────────────────────────────────────────
-         .: .. .  .  ..:.:    .    X$      . .                          │ Repositories...... ##
-         .  . .   :  .::::.         .   . .                             │ Followers......... ##
-              .   . ...::::.  ..    :   .                               │ Stars............. ##
-             .  . ......::;;:  X   ;.  &                                │ Contributions..... #####
+         .: .. .  .  ..:.:    .    X$      . .                          │ Repositories...... 45
+         .  . .   :  .::::.         .   . .                             │ Followers......... 80K
+              .   . ...::::.  ..    :   .                               │ Stars............. 10
+             .  . ......::;;:  X   ;.  &                                │ Contributions..... 10
                 .   . ...:;;;:     .:.                                  │
                      .....:+++:     . $                                 │ Contact
            .         .  ....:::.  &                                     │ ───────────────────────────────────────────────
-                                                                        │ GitHub............ github.com/<username>
-                                                                        │ LinkedIn.......... linkedin.com/in/<username>
-                                                                        │ Twitter/X......... @username
-                                                                        │ Email............. you@example.com
-                                                                        │
-                                                                        │ Motto
+                                                                        │ GitHub............ github.com/insecrez
+                                                                        │ LinkedIn.......... linkedin.com/in/insecrez
+                                                                        │ Twitter/X......... @insecrez
+                                                                        │ Email............. insecrez@gmail.com
                                                                         │ ───────────────────────────────────────────────
-                                                                        │ "Think like an attacker.
-                                                                        │  Build like a defender."
-
+   
 </pre>
