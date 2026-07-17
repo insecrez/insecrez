@@ -1,7 +1,7 @@
 <table>
 <tr>
 
-<td width="48%" valign="top">
+<td width="100%" valign="top">
 
 ```text
                                                                                                          
