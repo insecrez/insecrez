@@ -5,7 +5,7 @@
                 ' ''   '''   '''   '   '''''''   ''                     | <i>Think like an attacker, build like a defender</i>i
                . ..  .. .....   '   '  ' .......                        │ ───────────────────────────────────────────────
                .  .......        .          ....                        │
-             .. .. .....     .               .. ..                      │ OS................. Linux
+             .. .. .....     .               .. ..                      │ OS................. <code style="color : orange">Linux</code>
            .. .... ...                         ....                     │ Editor............. VS Code • Neovim
           ... .. ..                             ....                    │ Shell.............. zsh
         . . ..  ..                               ...                    │ Terminal........... Kitty
