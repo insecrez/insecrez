@@ -4,61 +4,54 @@
 <td width="48%" valign="top">
 
 ```text
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-           +++++++++x+              ;xxxxxxxx+xxx+xx+           xxxxxxxxxx++++++++++++++++++        
-            x++x+xx++             x+xxxxxxx+++xx+xxx+x++        xxxxxxxxxxxxxx++++++++++++++        
-            +xxxxxxxx           xxxxx++++; :::.    .;++++       xxxxxxxxxxxxxx++++++++++++++        
-            +xxxxxxxx          +xx++:                    ;     .xxxxxxxxxxxxxx++++++++++++++        
-            xxxxxxxxx          xx::                            .xxX               .++++++++;        
-            xxxxxXxxx          ++                               X                 +++++++++         
-            xxxxxxxxx                                                            ;x+++++++.         
-            xxxxxxxxx                                                            xx+x+x++x          
-            xxxxxXxxx                                                           xxxxxx+++           
-            xxxxxXxxx                                                           xxxx+++x+           
-            xxxxxxXXx                            ..                            xxxxxxx++            
-            xxxxxXxxx                        :;++++;::.                       :xxxxxxxx;            
-            xxxxxXxxx                  .::::;+xXXXXXx+;+;:                    xxxxxxx+x             
-            xxxXxxxxx               .::;+++xXXXXXXXXXXX+;:                   ;Xxxxxxxx              
-            xXxxXXXXx              .:;;+xxXXXXXXXX$XXXX+++:                  xxXXxxxxx              
-            xxxXxxxxx              .:;;++XX$$XXX$XXXXx+++++;.               xXxXxxxXx               
-            xXxxxxXXx             .::;;;;+++xXx;:.     ...;;+.              XxxxXXxx+               
-            xxxxXxxXx             .        . :.                  x:        XxXXXxxxx                
-            xxxXXxxxx                                       .:  :+:       :XXXXXxxX;                
-            xxxXxxxxx         .              +$+           ;++  :X+       XXXxXxxxx                 
-            xXxxxxxxx                        +Xx+          x+;. &+x      ;XXxxXxxx                  
-            xxxXXxxxx             :         .x$X+;.     .:xx+;. $X+      xXxXXxxXX                  
-            xxxxxxxxx             :::...:x;+:+Xx+XxxXX$$$Xxx+:  ++      xXxXxxxxX                   
-            xxxxxxxxx              ::;xxXx.   . ...XX+xXXXx+:   $+      XXxXxxxx+                   
-            xxxxxxxx+            : .:;++x+:        . .;xxx;.           XxXxxxxxx                    
-            xxxxxx+++                ::;    .:;+..:;   :+:            .XxxXxXxx:                    
-            +xxxxx+++                 ..    .;Xx+;;;++:;;:     +      xXxXxxxxx                     
-            +xxxx++++          :::     ..:::      :+++::.      +     ;xxxxXXxx                      
-            x+x++++++          ::::       :;;:.:+XXX+:       :       xXXxxxxX+             :        
-            xxxxx+++;          ::::                        .;:x     xxxxxxxxx             ;+        
-            ++xx+++++          :::..                      .;;.      xxxxxxxx:           ;+++        
-            xxx++++++          ::::                     .:;+;X     xxxxxxxxxxxxxxxxxx+++++++        
-            x++++++++          ::.   .                .:;++;;:       :xxxxxxxxxxxx+x++++++++        
-            +x+++++++:                            ...::;+++;x            .xxx+xxxxxx+x++++++        
-           xxxxxxx++++:               .         ...::;++++;;                 :xxxxxxxxxxxxx+        
-                         ..                 ....:::;;;;++;:                                         
-                        ....           x    .....:::;;;;;:;                                         
-                           .               ..:;;;;;+++++x                                           
-                           ...          :   .++xXXXXXXX  +                                          
-                            ..          :     :xXXXXX                                               
-                             ..                 XXX+    +                                           
-                              ......     ;       +x     :                                           
-                               ......                                                               
-                                ......    ;            +                                            
-                                 .......   .                                                        
-                                  .::::.:             ;                                             
-                                   .:::::   ;                                                       
-                                    .:::::   +       +                                              
-                                     .:::..                                                         
-                                      .:....                                                        
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+         ;;;;;;;;;;;             .$XXXXXXXXX$+          :xxxxx+++++++++++++++;;;+;       
+          +XXXXXXXX           xXXXXXXXXXXXXXXXXXX:      :XXXXXXXXXXXXXXXxxxxxxxxxx       
+          .XXXXXXXX          XXXXXxXX:;++; ...+xXXX     :XXXXXXXXXXXXXXXXXXxxxxxxx       
+          .XXXXXXXX         XXXx:. .              .+    :XXXXXXXXXXXXXXXxXXxXXXxxx       
+          .XXXXXXXX        +Xx:                        .:XX .  .         xXXXXxXx.       
+          .XXXXXXXX        X::     .                       . ..          XXXxXxXX        
+          .XXXXXXXX .     ..                              . ... ..      XXxXXXXX         
+          .XXXXXXXX . .                                     . .. ..  . :XXXXXXXX         
+          .XXXXXXXX .                                        . .. .. . XXXXXXXX          
+          .XXXXXXX$..                     .::..               ... ....xXXXXXXX;          
+          .XXXXXXXX ...                :;xxxXx+;:..          ... .. . XXXXXXXX           
+          .XXXXXXXX..            .:;;+++XXXX$$XXXX+;         ..... . XXXXXXXX            
+          .XXXXXXX$...         .:;;+XXX$X$$$$$$$XXx;.        .. .. ..XXXXXXXX            
+          .XXXXXXXX   .        :;+xxX$$$$$$$$$$$XXXx+:      ..... ..$XXXXXXX             
+          :XXXXXXXX .         .:;+XxXXX$$$X+;...   xx+:     ... ...;XXXXXXX+             
+          .XXXXXXX$..         ::    .: :+x                x .... . XXXXXXXX              
+          :XXXXXXX$ .       .                        .;  :;+ .....XXXXXXXX:              
+          .XXXXXXXX        ;            X$;          XX; :Xx..... XXXXXXX$.              
+          .XXXXXXXX        .: .        :X$Xx        XX+; &X: ... XXXXXXXX .              
+          :XXXXXXXX         : ;:      ;:X&XxXXx+xx+XXX+: &:.....:XXXXXXXX .              
+          :XXXXXXXX         .::;;+XX$X+::+; :XXXX$$XXx;. &X. ...XXXXXXXX ..              
+          .XXXXXXXX          + ;;+XXX+.  ; :+xx:xXXX;:.    . ..+XXXXXXX: .               
+          .XXXXXXXX          .  :;+;   .x$X;++.  xX;      .... XXXXXXXX...               
+          .XXXXXXXX              :;:   :+XXX++XX;++::   x.  ..XXXXXXXX    .              
+          .XXXXXxxX        +;;;   .;:;;.    .X+X;;:   . X. .. XXXXXXXx ..                
+          :XXXXXxxx        ;;;;      .++;+x+xx;:.    .;   .. XXXXXXXX  .       . X       
+          .XXXXXxxx        ;;;;+            .       :++&  ..;XXXXXXX:..         xX       
+          .XXXXxXxx        +;;; + ..              .;+x;:   .XXXXXXXX$$$$$$$$XXXXXx       
+          .XXXXXxxx        .;;   ; ...          :;;+x+x      XXXXXXXXXXXXXXXXXxXXx       
+          +XXXXXXxx          .      .........:::;+x++;; .   . .. XXXXXXXXXXXXXXXxx       
+         +X$$X$$XXXX              X  .......:;;+xxxX+;               $$$$XXXXXXXXX       
+             ..  .   :::..            ..:::;;;+++X++$  :    .   .     .  ....  .         
+              .   .  :.....        : ...::;;;;+++++;  .    ..               .  .         
+           .           .:... .     +.  +++xXXxXXXX .;       ..   .             . .       
+           .          . .... :         ..XX$$$$$...             .      .     ...         
+                         ...  .     x     xXXX.   X  .        ..  .                      
+                   .      ..:..:            X      . .      .  : .                       
+                      ..   ::::::.   &                                                   
+                .           :;:::::  .      .    $           ..                          
+                      ..    ..;;:::;  +                .      . .                        
+                        . .....;;;;;:  X   :    X  .   .      ..                         
+                          . ..  ;;;;;:  ;  :.             . .  .  .                      
+                          . .... ;;;;::  & .   x                                         
+                                  ;::::.  +                                              
 
 ```
 
