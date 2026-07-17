@@ -2,7 +2,7 @@
 
                                   .        .                            │ <b>insecrez</b>
                          . . ..    .   .  ....  .                       │ <i>FDE + Security Engineer</i>
-                ' ''   '''   '''   '   '''''''   ''                     | <i>Think like an attacker, build like a defender</i>i
+                ' ''   '''   '''   '   '''''''   ''                     | <i>Think like an attacker, build like a defender</i>
                . ..  .. .....   '   '  ' .......                        │ ───────────────────────────────────────────────
                .  .......        .          ....                        │
              .. .. .....     .               .. ..                      │ OS................. <code style="color : orange">Linux</code>
