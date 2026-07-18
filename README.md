@@ -8,7 +8,7 @@
              .. .. .....     .               .. ..                      │ OS................. Linux
            .. .... ...                         ....                     │ Editor............. VS Code • Neovim
           ... .. ..                             ....                    │ Shell.............. zsh
-        . . ..  ..                               ...                    │ Terminal........... Kitty
+        . . ..  ..                               ...                    │ Terminal........... Terminator
         .. .......              .;+++::.          ...                   │
         .. .  .....       ..;;++xxX$$xxX;;        ...                   │ Languages.......... Python • Go • Rust
      ... ...... ...      .;;+XXXXX$$$$XXx;:      .....                  │                   C • Java • Bash
